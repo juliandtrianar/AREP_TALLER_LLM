@@ -26,7 +26,8 @@ Sigue estos pasos para configurar el proyecto:
 1. Clona este repositorio:
     
     ```python
-  git clone https://github.com/juliandtrianar/AREP_TALLER_LLM/tree/d5b434cb305eb877bd507d777eedee756df2f7a8/TutorialLLM_chain
+
+     git clone https://github.com/juliandtrianar/AREP_TALLER_LLM/tree/d5b434cb305eb877bd507d777eedee756df2f7a8/TutorialLLM_chain
 
     ```
     
@@ -158,7 +159,9 @@ LangChain-LLM-AREP/
 ## **Capturas de Pantalla**
 
 Aquí hay un ejemplo de la salida en la consola:
+
 <img width="597" height="232" alt="image" src="https://github.com/user-attachments/assets/005e4dfd-9297-4255-b467-e7a2b830663e" />
+
 <img width="661" height="110" alt="image" src="https://github.com/user-attachments/assets/d24c03db-3ed8-4450-b0fe-34344cf53e97" />
 
 
